@@ -1,0 +1,8 @@
+streamlit
+crewai
+langchain-groq
+langchain-openai
+PyPDF2
+pandas
+litellm
+fpdf2
